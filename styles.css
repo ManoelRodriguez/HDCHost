@@ -268,3 +268,18 @@ nav {
 	color: #FFF;
 	font-size: 24px;
 }
+
+/* SEÇÃO DE CONTATO */
+
+.contact-container{
+	text-align: center;
+	padding-top: 5em;
+	padding-bottom: 2em;
+}
+.contact-container h2{
+	font-size: 36px;
+}
+.contact-container p {
+	font-size: 20px;
+	margin-bottom: 40px;
+}
